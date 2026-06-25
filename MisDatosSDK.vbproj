@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net40</TargetFramework>
+    <RootNamespace>MisDatosSDK</RootNamespace>
+    <AssemblyName>MisDatosSDK</AssemblyName>
+    <Description>SDK puro en VB.NET (Framework 4.0) para la API de MisDatos</Description>
+    <Authors>SergioMisDatos</Authors>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="System.Web.Extensions" />
+  </ItemGroup>
+
+</Project>
